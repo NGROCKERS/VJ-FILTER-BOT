@@ -129,7 +129,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/VJ-Filter-BotAuto-branch=Tech_VJ&name=VJ-Filter-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/ngrockers/VJ-Filter-BotAuto-branch=Tech_VJ&name=VJ-Filter-bot)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -156,7 +156,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-Filter-Bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/ngrockers/VJ-Filter-Bot/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
